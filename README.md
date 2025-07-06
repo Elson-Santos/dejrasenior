@@ -1,4 +1,3 @@
-
 # Conversor de Temperatura
 
 Projeto dividido em:
